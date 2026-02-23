@@ -1,0 +1,11 @@
+{
+  "name": "sharky-extension-ai",
+  "version": "1.0.0",
+  "description": "Backend AI server for SharkyExtension using Python",
+  "main": "main.py",
+  "scripts": {
+    "start": "Start.bat"
+  },
+  "author": "Sharky",
+  "license": "ISC"
+}
