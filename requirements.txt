@@ -1,3 +1,11 @@
 fastapi
 uvicorn
 pydantic
+simple-lama-inpainting
+Pillow
+torch
+numpy
+opencv-python-headless
+realesrgan
+basicsr
+transformers
